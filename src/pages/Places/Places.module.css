@@ -1,0 +1,11 @@
+iframe {
+    height: 60vh;
+}
+
+.description {
+    font-family: var(--font);
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    padding: 25px 25px;
+}
